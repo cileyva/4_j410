@@ -309,6 +309,15 @@ input:not(:checked) + .slider .ghost:before{
   background-color: black;
     color: white
 }
+
+/*-------------------TESTTESTEST--------------------------*/
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+
 /*----------------PARALLAX IMAGE-----------------*/
 .parallax {
 	min-height: 450px;
