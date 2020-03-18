@@ -616,10 +616,12 @@ a.text:hover, a.text:active {
 
 .image1 {
 	width: 100%;
+	height: auto;
 }
 
 .container {
 	position: relative;
+	background-image: url(img/main.jpg);
     height: 75vh;
     background-size: cover;
     background-position: 50% 50%;
